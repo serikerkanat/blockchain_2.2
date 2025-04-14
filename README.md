@@ -17,7 +17,7 @@ A simple Solana smart contract that prints "Hello, Solana!" to the program logs.
 
 ```rust
 msg!("Hello, Solana!");
-
+```
 ![Снимок экрана 2025-04-14 140908](https://github.com/user-attachments/assets/9437f902-6655-4e57-863c-d67fe8c906e0)
 ![Снимок экрана 2025-04-14 140951](https://github.com/user-attachments/assets/638aa5aa-5216-4e27-9ceb-40ae220a3342)
 ![Снимок экрана 2025-04-14 141348](https://github.com/user-attachments/assets/86baab76-3299-45aa-947e-b954ad3469d3)
