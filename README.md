@@ -14,10 +14,6 @@ A simple Solana smart contract that prints "Hello, Solana!" to the program logs.
 - **Program ID**: C2MVEt4CPxpiGYpkYKiWx2cSFPfVXDjD3RHXMcTj1263
 - **Transaction**: [5ezGThRafYRjg9BhmUaHGuCv29S5h66bgWo4kLuB5FrFfY4cXMJtAmU9E8zexTn2MpXXZ9Rrnt86XRZtJcxE4DLe](https://explorer.solana.com/tx/5ezGThRafYRjg9BhmUaHGuCv29S5h66bgWo4kLuB5FrFfY4cXMJtAmU9E8zexTn2MpXXZ9Rrnt86XRZtJcxE4DLe?cluster=devnet)
 
-
-![CLI Version](screenshots/cli-version.png)
-![Successful Deployment](screenshots/deployment.png)
-
 ## Examples
 
 ```rust
