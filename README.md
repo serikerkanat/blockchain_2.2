@@ -24,3 +24,4 @@ msg!("Hello, Solana!");
 ![Снимок экрана 2025-04-14 210457](https://github.com/user-attachments/assets/9ce380ce-0e92-4957-a86e-7baeb7e9d9d2)
 ![Снимок экрана 2025-04-14 211805](https://github.com/user-attachments/assets/2630af02-8276-4c4e-8f83-6bbcfb6f628a)
 ![Снимок экрана 2025-04-14 212600](https://github.com/user-attachments/assets/e6cd332e-7201-4fa2-b53a-6296d8725509)
+![Снимок экрана 2025-04-14 213141](https://github.com/user-attachments/assets/1cfd8ea2-8f7e-462d-b5d8-014cbfda16fe)
